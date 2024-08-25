@@ -1,4 +1,6 @@
 # deployed-projects
+https://moz-portfolio.vercel.app/
+----------
 
 https://github.com/mozsocia/django-sneat-admin-vercel
 https://django-sneat-admin-vercel.vercel.app/panel/
